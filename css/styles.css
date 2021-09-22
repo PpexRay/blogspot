@@ -9,6 +9,7 @@ body {
 }
 
 
+
 #container {
     width: 70%;
     padding: 1em;
@@ -19,7 +20,7 @@ body {
 
 #cabecera {
     font-family: 'Times New Roman', Times, serif;
-    color: aquamarine;
+    color: black;
     text-align: center;
     font-size: 50px;
     font-weight: 300;
