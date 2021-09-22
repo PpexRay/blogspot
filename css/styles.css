@@ -18,14 +18,14 @@ body {
 }
 
 #cabecera {
-    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
     text-align: center;
-    font-size: 70px;
-    font-weight: 700;
-    background-color: dimgray;
-    font-size: 25px;
-    padding: 2px;
-    border: 5px solid blanchedalmond;
+    font-size: 50px;
+    font-weight: 300;
+    background-color: rgb(204, 219, 219);
+    padding: 2.5px;
+    border: 1.5px solid rgb(32, 32, 31);
 }
 
 
